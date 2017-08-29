@@ -45,5 +45,11 @@
       "title": "Done"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "id": "1dd33d4b-2440-451b-892b-02ce0f18936d",
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
 }
